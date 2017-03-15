@@ -131,6 +131,7 @@ Tutorials for how to accomplish functionality in your applications.
 - [IIIF Intro (fr)](http://doc.biblissima-condorcet.fr/introduction-iiif) Introduction to IIIF (in French).
 - [Introduction to APIs using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/) uses IIIF as an example to explain APIs.
 - [Image Choice video](https://www.youtube.com/watch?v=4AJPVktQ1Zw) demonstration of how a canvas can have a choice of images and a viewer can toggle between them.
+- [Introduction to IIIF Workshop](https://iiif.github.io/training/intro-to-iiif/) a hands on introduction workshop to IIIF
 
 ## Videos and Slide Decks
 
